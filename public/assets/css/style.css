@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 3rem;
+    font-weight: 900;
+    color: rgb(29, 29, 136);
+}
+
+.hero {
+    margin-top: 1rem;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+    border-radius: 0.5rem;
+}
+
+#map {
+    height: 300px;
+    width: 100%;
+    margin-top: 1rem;
+    border-radius: 0.5rem;
+}
+
+.section-title {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
